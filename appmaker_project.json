@@ -1,0 +1,26 @@
+{
+  "id": 65,
+  "name": "ملاحظات",
+  "packageId": "com.appmaker.notes65",
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "type": "Kotlin (AI)",
+  "orientation": "portrait",
+  "fullscreen": false,
+  "monetizationModel": "free",
+  "securityLevel": "standard",
+  "permissions": {
+    "camera": true,
+    "location": false,
+    "audio": false,
+    "storage": true,
+    "internet": true,
+    "wifi": false,
+    "bluetooth": false,
+    "notifications": false,
+    "vibrate": false,
+    "wakeLock": true,
+    "boot": false
+  },
+  "updatedAt": "2026-10-23T06:54:30.570Z"
+}
